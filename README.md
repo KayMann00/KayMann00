@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KayMann00
+- 👀 I’m passionate about data analytics and all things data!
+- 🌱 I’m currently learning data science and all the tools and techniques involved in working with data. 
+- 💞️ I’m particularly interetsed in building Power BI reports and Tableau dashbaords, and I am also streghtning my skills in SQL and Pythoin
+- 📫 How to reach me at kmannering2002@gmail.com or on linkedIn: linkedin.com/in/kayleigh-mannering/
+- ⚡ Fun fact: I love sports and am a huge basketball fan!
